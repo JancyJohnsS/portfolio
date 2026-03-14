@@ -60,7 +60,68 @@ designation:"Editor (Freelance)",
 organization:"Letters Bay Publications",
 duration:"June 2022 – Present",
 work:"Editing manuscripts, content development and coordinating with authors and publishers."
+},
+
+{
+Business 
+Development 
+Executive 
+Pharmicons, 
+Thiruvananthapuram 
+June 2023 – July 
+2023 
+Client acquisition, 
+coordination, business 
+outreach 
+},
+
+{
+Business 
+Development 
+Executive 
+Teams Abroad, 
+Thiruvananthapuram 
+Apr 2023 – June 
+2023 
+Student counselling, program 
+coordination, client handling 
+},
+
+{
+Guest Relation 
+Manager 
+B’Canti Beach 
+Resort, Varkala 
+Dec 2022 – Mar 
+2023 
+Guest relations, service 
+coordination, customer 
+satisfaction management 
+},
+
+{
+Intern
+Logistics & Supply 
+Chain Management, 
+Cochin Port Trust 
+May 2017 – June 
+2017 
+Organisational study, 
+documentation, logistics 
+process exposure
+},
+
+{
+Freelancer
+• Content Writer (English & 
+Malayalam)  
+• Anchor - Kerala Kaumudi 
+(TV channel)  
+• English Translator  
+• English Tutor (Tuition 
+Centers)
 }
+
 
 ],
 
