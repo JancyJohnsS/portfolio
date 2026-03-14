@@ -278,16 +278,25 @@ background:linear-gradient(90deg,#06b6d4,#6366f1);
 /* CERTIFICATIONS */
 
 .carousel{
-overflow:hidden;
+overflow-x:auto;
+overflow-y:hidden;
+scroll-behavior:smooth;
+-webkit-overflow-scrolling:touch;
+}
+
+.carousel::-webkit-scrollbar{
+display:none;
 }
 
 .track{
 display:flex;
 gap:25px;
 animation:scroll 35s linear infinite;
+width:max-content;
 }
 
-.carousel:hover .track{
+.carousel:hover .track,
+.carousel:active .track{
 animation-play-state:paused;
 }
 
@@ -299,6 +308,7 @@ border-radius:14px;
 box-shadow:0 10px 25px rgba(0,0,0,.08);
 display:flex;
 flex-direction:column;
+justify-content:space-between;
 transition:.3s;
 }
 
@@ -307,14 +317,16 @@ transform:translateY(-8px);
 }
 
 .verify-btn{
-margin-top:14px;
+margin-top:16px;
 padding:7px 16px;
 border-radius:18px;
 font-size:13px;
 text-decoration:none;
 color:white;
 background:linear-gradient(90deg,#6366f1,#06b6d4);
-width:fit-content;
+display:inline-block;
+white-space:nowrap;
+align-self:flex-start;
 transition:.3s;
 }
 
