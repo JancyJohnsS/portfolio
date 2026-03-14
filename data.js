@@ -233,13 +233,21 @@ details:"Served as evaluator for preliminary assessment."
 program:"Young Innovators Programme 6.0",
 year:"2024",
 details:"Served as evaluator during district level evaluation."
+},
+
+{
+program:"International Engagement ",
+year:"2020",
+details:"Participated in the International Model United Nations (IMUN) online conference with UNDP and UNESCO; represented Singapore as a delegate in 2020. "
+},
+
+{
+program:"Media & Events  ",
+details:"Served as the Master of Ceremonies (MC) for a National Webinar on the Transgender community organized by Loyola College of Social Sciences.  "
 }
 
 ],
 
-international:"Participated in International Model United Nations with UNDP and UNESCO representing Singapore (2020).",
-
-media:"Master of Ceremonies for National Webinar on the Transgender community organized by Loyola College of Social Sciences.",
 
 references:[
 
