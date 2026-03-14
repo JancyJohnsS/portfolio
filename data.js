@@ -63,65 +63,39 @@ work:"Editing manuscripts, content development and coordinating with authors and
 },
 
 {
-Business 
-Development 
-Executive 
-Pharmicons, 
-Thiruvananthapuram 
-June 2023 – July 
-2023 
-Client acquisition, 
-coordination, business 
-outreach 
+designation:"Business Development Executive",
+organization:"Pharmicons, Thiruvananthapuram",
+duration:"June 2023 – July 2023",
+work:"Client acquisition, coordination, business outreach."
 },
 
 {
-Business 
-Development 
-Executive 
-Teams Abroad, 
-Thiruvananthapuram 
-Apr 2023 – June 
-2023 
-Student counselling, program 
-coordination, client handling 
+designation:"Business Development Executive",
+organization:"Teams Abroad, Thiruvananthapuram",
+duration:"Apr 2023 – June 2023",
+work:"Student counselling, program coordination, client handling."
 },
 
 {
-Guest Relation 
-Manager 
-B’Canti Beach 
-Resort, Varkala 
-Dec 2022 – Mar 
-2023 
-Guest relations, service 
-coordination, customer 
-satisfaction management 
+designation:"Guest Relation Manager",
+organization:"B’Canti Beach Resort, Varkala",
+duration:"Dec 2022 – Mar 2023",
+work:"Guest relations, service coordination, customer satisfaction management."
 },
 
 {
-Intern
-Logistics & Supply 
-Chain Management, 
-Cochin Port Trust 
-May 2017 – June 
-2017 
-Organisational study, 
-documentation, logistics 
-process exposure
+designation:"Intern",
+organization:"Logistics & Supply Chain Management, Cochin Port Trust",
+duration:"May 2017 – June 2017",
+work:"Organisational study, documentation, logistics process exposure."
 },
 
 {
-Freelancer
-• Content Writer (English & 
-Malayalam)  
-• Anchor - Kerala Kaumudi 
-(TV channel)  
-• English Translator  
-• English Tutor (Tuition 
-Centers)
+designation:"Freelancer",
+organization:"Self-Employed",
+duration:"—",
+work:"Content Writer (English & Malayalam), Anchor - Kerala Kaumudi (TV Channel), English Translator, English Tutor (Tuition Centers)."
 }
-
 
 ],
 
