@@ -2,7 +2,7 @@ const data={
 
 name:"Jancy Johns S",
 
-profile:"UGC-NET qualified MA Sociology graduate with experience in teaching, academic coordination and research support. Currently working as an Academic Associate at IIM Bangalore with prior experience as Guest Assistant Professor of Sociology.",
+profile:"UGC-NET qualified MA Sociology graduate with experience in teaching, academic coordination and research support. Currently working as an Academic Associate at IIM Bangalore with prior experience as Academic Associate at XLRI Delhi NCR and Guest Assistant Professor of Sociology. Also engaged in freelance work including editing, content writing and academic support.",
 
 email:"jancyjohnss97@gmail.com",
 mobile:"9526430494",
