@@ -2,7 +2,7 @@ const data={
 
 name:"Jancy Johns S",
 
-profile:"UGC-NET qualified MA Sociology graduate with experience in teaching, academic coordination and research support. Currently working as a Academic Associate at IIM- Banglore with prior experience as Guest Assistant Professor of Sociology.",
+profile:"UGC-NET qualified MA Sociology graduate with experience in teaching, academic coordination and research support. Currently working as an Academic Associate at IIM Bangalore with prior experience as Guest Assistant Professor of Sociology.",
 
 email:"jancyjohnss97@gmail.com",
 mobile:"9526430494",
@@ -27,11 +27,12 @@ skills:[
 ],
 
 experience:[
+
 {
-designation:"Academic  Associate",
-organization:"IIM- Banglore ",
-duration:"April 2026 – Present ",
-work:"Academic coordination, faculty support."
+designation:"Academic Associate",
+organization:"IIM Bangalore",
+duration:"April 2026 – Present",
+work:"Academic coordination and faculty support."
 },
 
 {
@@ -56,6 +57,27 @@ work:"Teaching undergraduate sociology courses, mentoring students and conductin
 },
 
 {
+designation:"Business Development Executive",
+organization:"Pharmicons, Thiruvananthapuram",
+duration:"June 2023 – July 2023",
+work:"Client acquisition, coordination and business outreach."
+},
+
+{
+designation:"Business Development Executive",
+organization:"Teams Abroad, Thiruvananthapuram",
+duration:"Apr 2023 – June 2023",
+work:"Student counselling, program coordination and client handling."
+},
+
+{
+designation:"Guest Relation Manager",
+organization:"B’Canti Beach Resort, Varkala",
+duration:"Dec 2022 – Mar 2023",
+work:"Guest relations, service coordination and customer satisfaction management."
+},
+
+{
 designation:"Editor (Freelance)",
 organization:"Letters Bay Publications",
 duration:"June 2022 – Present",
@@ -63,38 +85,17 @@ work:"Editing manuscripts, content development and coordinating with authors and
 },
 
 {
-designation:"Business Development Executive",
-organization:"Pharmicons, Thiruvananthapuram",
-duration:"June 2023 – July 2023",
-work:"Client acquisition, coordination, business outreach."
-},
-
-{
-designation:"Business Development Executive",
-organization:"Teams Abroad, Thiruvananthapuram",
-duration:"Apr 2023 – June 2023",
-work:"Student counselling, program coordination, client handling."
-},
-
-{
-designation:"Guest Relation Manager",
-organization:"B’Canti Beach Resort, Varkala",
-duration:"Dec 2022 – Mar 2023",
-work:"Guest relations, service coordination, customer satisfaction management."
-},
-
-{
 designation:"Intern",
 organization:"Logistics & Supply Chain Management, Cochin Port Trust",
 duration:"May 2017 – June 2017",
-work:"Organisational study, documentation, logistics process exposure."
+work:"Organisational study, documentation and logistics process exposure."
 },
 
 {
 designation:"Freelancer",
 organization:"Self-Employed",
-duration:"—",
-work:"Content Writer (English & Malayalam), Anchor - Kerala Kaumudi (TV Channel), English Translator, English Tutor (Tuition Centers)."
+duration:"Various Periods",
+work:"Content Writer (English & Malayalam), Anchor – Kerala Kaumudi TV, English Translator and English Tutor at tuition centers."
 }
 
 ],
