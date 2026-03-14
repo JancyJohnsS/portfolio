@@ -127,8 +127,10 @@ background:linear-gradient(90deg,#6366f1,#06b6d4);
 
 .profile-text{
 font-size:18px;
-max-width:670px;
+max-width:820px;
 word-wrap:break-word;
+text-align:justify;
+line-height:1.8;
 }
 
 /* SECTIONS */
@@ -206,6 +208,20 @@ background:linear-gradient(45deg,#6366f1,#06b6d4);
 display:grid;
 grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
 gap:26px;
+}
+
+/* AWARDS - ONLY 2 ITEMS PER ROW */
+
+#awards{
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:26px;
+}
+
+@media(max-width:700px){
+#awards{
+grid-template-columns:1fr;
+}
 }
 
 /* EDUCATION */
