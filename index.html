@@ -210,7 +210,7 @@ grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
 gap:26px;
 }
 
-/* AWARDS - ONLY 2 ITEMS PER ROW */
+/* AWARDS */
 
 #awards{
 display:grid;
@@ -291,7 +291,7 @@ display:none;
 .track{
 display:flex;
 gap:25px;
-animation:scroll 35s linear infinite;
+animation:scroll 40s linear infinite;
 width:max-content;
 }
 
@@ -337,7 +337,15 @@ opacity:.9;
 
 @keyframes scroll{
 0%{transform:translateX(0)}
-100%{transform:translateX(-50%)}
+100%{transform:translateX(-100%)}
+}
+
+/* MOBILE SPEED */
+
+@media(max-width:700px){
+.track{
+animation:scroll 60s linear infinite;
+}
 }
 
 /* AWARDS */
@@ -392,8 +400,6 @@ padding:30px;
 position:relative;
 }
 
-/* @th TAG */
-
 .th{
 position:absolute;
 right:20px;
@@ -410,8 +416,6 @@ animation:runText 6s linear infinite;
 50%{opacity:1}
 100%{opacity:.2}
 }
-
-/* MOBILE */
 
 @media(max-width:900px){
 
@@ -532,6 +536,7 @@ padding:16px 7%;
 <h2>References</h2>
 <div class="grid" id="references"></div>
 </div>
+</div>
 </section>
 
 <section class="section section-dark" id="contact">
@@ -624,7 +629,10 @@ ${c.year}
 <a class="verify-btn" href="${c.link}" target="_blank">Verify</a>
 </div>`
 })
-certifications.innerHTML=cert+cert
+
+/* TRIPLE DUPLICATION FOR SMOOTH LOOP */
+
+certifications.innerHTML=cert+cert+cert
 
 let aw=""
 data.awards.forEach(a=>{
