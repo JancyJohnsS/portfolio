@@ -6,7 +6,7 @@ profile:"UGC-NET qualified MA Sociology graduate with experience in teaching, ac
 
 email:"jancyjohnss97@gmail.com",
 mobile:"9526430494",
-linkedin:"https://www.linkedin.com/in/jancyjohns",
+linkedin:"https://www.linkedin.com/in/jancyjohnss",
 
 skills:[
 "Classroom Teaching",
@@ -263,6 +263,13 @@ name:"S.C. Andrew Michael",
 role:"Assistant Professor, Loyola College of Social Sciences",
 email:"andrewmichael@loyolacollegekerala.edu.in",
 mobile:"9043434476"
+},
+
+{
+name:"Prof Dr. Kuruvilla Pandikattu SJ",
+role:"Chair Professor, JRD Foundation for Business Ethics, XLRI- Xavier School of Management Jamshedpur 831001 India",
+email:"kuru@xlri.ac.in, jrdtf@xlri.ac.in",
+website:"www.kuru.in"
 }
 
 ]
