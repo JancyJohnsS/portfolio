@@ -268,7 +268,8 @@ mobile:"9043434476"
 {
 name:"Prof Dr. Kuruvilla Pandikattu SJ",
 role:"Chair Professor, JRD Foundation for Business Ethics, XLRI- Xavier School of Management Jamshedpur 831001 India",
-email:"kuru@xlri.ac.in, jrdtf@xlri.ac.in"
+email:"kuru@xlri.ac.in, jrdtf@xlri.ac.in",
+mobile:"9579959565"
 }
 
 ]
